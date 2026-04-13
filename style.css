@@ -1,0 +1,25 @@
+html{
+width: 100;
+height: 100;
+}
+body{
+background-color: rgb(8, 8, 8);
+text-align: center;
+}
+
+h1{
+text-align: center;
+color: rgb(240, 248, 255);
+size: 500px;
+}
+
+.one {
+width: 1900px;
+height: 75px;
+background-color: rgb(65, 61, 61);
+margin: 5px;
+border-style: inherit;
+color: aliceblue;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
