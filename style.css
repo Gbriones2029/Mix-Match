@@ -1,0 +1,57 @@
+html, body { 
+  width: 100%; 
+  height: 100%; 
+  margin: 0;
+  padding: 0;
+  background-color: rgb(8, 8, 8); 
+  text-align: center; 
+}
+
+h1 { 
+  color: rgb(30, 45, 59); 
+  font-size: 50px; /* Changed from size: 500px */
+  font-family: "Comic Relief", system-ui; 
+}
+
+.one { 
+  width: 1250px; 
+  max-width: 90%; /* Ensures responsiveness */
+  height: 125px; 
+  background-color: rgb(65, 61, 61); 
+  margin: 5px auto; 
+  color: aliceblue; 
+  font-family: 'Gill Sans', sans-serif; 
+}
+
+h2 { 
+  font-size: 20px; 
+  color: #f0f8ff; 
+  margin-top: 5px; 
+  font-family: 'Gill Sans', sans-serif; 
+  background-color: rgb(65, 61, 61);
+}
+
+h3 { 
+  font-size: 20px; 
+  color: #f0f8ff; 
+  margin-block: 10%; 
+  font-family: 'Gill Sans', sans-serif; 
+}
+
+.image-container { 
+  width: 300px; 
+  height: 300px; 
+  margin:15px;
+float: left;
+}
+
+.caption { 
+  display: flex;
+    align-items: center;
+}
+
+.two { 
+  width: 100%; 
+  height: 100%; 
+  object-fit: cover; 
+}
